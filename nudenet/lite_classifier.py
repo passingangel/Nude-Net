@@ -8,7 +8,7 @@ from .image_utils import load_images
 
 class LiteClassifier:
     def __init__(self):
-        url = "https://passingangel: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@github.com/notAI-tech/NudeNet/releases/download/v0/classifier_lite.onnx"
+        url = "https://passingangel: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@github.com/passingangel/Nude-Net/releases/download/1.1/classifier_lite.onnx"
         home = os.path.expanduser("~")
         model_folder = os.path.join(home, ".NudeNet/")
         if not os.path.exists(model_folder):
