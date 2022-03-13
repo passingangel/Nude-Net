@@ -16,12 +16,12 @@ def dummy(x):
 
 FILE_URLS = {
     "default": {
-        "checkpoint": "https://passingangel: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@github.com/notAI-tech/NudeNet/releases/download/v0/detector_v2_default_checkpoint.onnx",
-        "classes": "https://passingangel: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@github.com/notAI-tech/NudeNet/releases/download/v0/detector_v2_default_classes",
+        "checkpoint": "https://passingangel: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@github.com/passingangel/Nude-Net/releases/download/1.1/detector_v2_default_checkpoint.onnx",
+        "classes": "https://passingangel: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@github.com/passingangel/Nude-Net/releases/download/1.1/detector_v2_default_classes",
     },
     "base": {
-        "checkpoint": "https://passingangel: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@github.com/notAI-tech/NudeNet/releases/download/v0/detector_v2_base_checkpoint.onnx",
-        "classes": "https://passingangel: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@github.com/notAI-tech/NudeNet/releases/download/v0/detector_v2_base_classes",
+        "checkpoint": "https://passingangel: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@github.com/passingangel/Nude-Net/releases/download/1.1/detector_v2_base_checkpoint.onnx",
+        "classes": "https://passingangel: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@github.com/passingangel/Nude-Net/releases/download/1.1/detector_v2_base_classes",
     },
 }
 
